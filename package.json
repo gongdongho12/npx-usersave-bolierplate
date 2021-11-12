@@ -2,8 +2,9 @@
   "name": "npx-boilerplate",
   "version": "1.0.0",
   "description": "npx test",
-  "bin": "./index.js",
-  "main": "index.js",
+  "bin": {
+    "npx-boilerplate": "./bin/generate-app.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/gongdongho12/npx-bolierplate/issues"
   },
-  "homepage": "https://github.com/gongdongho12/npx-bolierplate#readme"
+  "homepage": "https://github.com/gongdongho12/npx-bolierplate#readme",
+  "keywords": []
 }
