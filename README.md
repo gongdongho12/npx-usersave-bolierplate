@@ -1,5 +1,5 @@
-# npx-boilerplate-react
+# npx-usersave-boilerplate
 ## Started
 ```bash
-npx https://github.com/gongdongho12/npx-bolierplate [project_name]
+npx https://github.com/gongdongho12/npx-usersave-bolierplate [project_name]
 ```
